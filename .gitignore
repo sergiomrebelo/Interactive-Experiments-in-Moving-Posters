@@ -1,0 +1,7 @@
+/node_modules/*
+gtflexa_experiments/.idea/codeStyles/codeStyleConfig.xml
+*.iml
+/.idea
+.idea/
+gtflexa_experiments/node_modules/*
+gtflexa_experiments/.idea/*
