@@ -13,7 +13,7 @@ const txt = [
 ]
 
 setup = () => {
-    canvas = createCanvas(windowWidth, windowHeight, WebGL2RenderingContext);
+    canvas = createCanvas(windowWidth, windowHeight, WebGL2RenderingContext); //WebGL2RenderingContext
     pixelDensity(1);
     frameRate(60);
     smooth();
